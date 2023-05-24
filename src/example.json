@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "aliens",
+        "director": "James Cameron",
+        "year": "1995"
+    },
+    {
+        "id": 2,
+        "title": "La vendedora de Rosas",
+        "director": "El gio",
+        "year": "2000"
+    }
+]
